@@ -24,13 +24,13 @@ Also have a look at the small facts module that comes with this plugin, it will 
 What was helpfull to me?
 ========================
 It seams there is not very much documentation about writing puppet resource modules. Or at least not enough for absolute beginners. Maybe one day I will make a short documentation about what I have learned about doing such modules. But for now try it with these docs from other people.
-	* https://docs.puppetlabs.com/guides/custom_types.html
-	* https://docs.puppetlabs.com/guides/provider_development.html
-	* https://docs.puppetlabs.com/guides/complete_resource_example.html
-	* http://garylarizza.com/blog/2013/11/25/fun-with-providers/
-	* http://garylarizza.com/blog/2013/12/15/seriously-what-is-this-provider-doing/
-	* http://www.masterzen.fr/2011/11/02/puppet-extension-point-part-2/
-	* and of course: /usr/share/ruby/vendor_ruby/puppet
+- https://docs.puppetlabs.com/guides/custom_types.html
+- https://docs.puppetlabs.com/guides/provider_development.html
+- https://docs.puppetlabs.com/guides/complete_resource_example.html
+- http://garylarizza.com/blog/2013/11/25/fun-with-providers/
+- http://garylarizza.com/blog/2013/12/15/seriously-what-is-this-provider-doing/
+- http://www.masterzen.fr/2011/11/02/puppet-extension-point-part-2/
+- and of course: /usr/share/ruby/vendor_ruby/puppet
 
 
 Feel free to fork and improve!
